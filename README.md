@@ -7,6 +7,9 @@
   <a href="https://www.credly.com/users/samuel-torres-fernandes/badges#credly" target="_blank">
     <img src="https://img.shields.io/badge/-Credly-%23FF6B00?style=for-the-badge&logo=Credly&logoColor=white" alt="Credly">
   </a>
+  <a href="https://www.hackerrank.com/profile/torresfernandes1" target="_blank">
+    <img src="https://img.shields.io/badge/-HackerHank-%23007F20?style=for-the-badge&logo=HackerHank&logoColor=white" alt="HackerHank">
+  </a>
 </div>
 
 <br>
