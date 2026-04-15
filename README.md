@@ -16,5 +16,5 @@
 
 <div align="left">
   <h3>💻 Tech Stack</h3>
-  <img src="https://skillicons.dev/icons?i=aws,docker,java,spring,nodejs,postgres,cs,dotnet&theme=dark" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,postgres,java,spring,cs,dotnet,nodejs&theme=dark" alt="My Skills" />
 </div>
